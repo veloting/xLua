@@ -1,0 +1,4 @@
+[submodule "build/pbc"]
+	path = build/pbc
+	url = https://github.com/veloting/pbc
+	branch = proto_v3
